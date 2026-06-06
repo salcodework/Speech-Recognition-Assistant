@@ -3,22 +3,22 @@ Project- Speech Recognition Assistant.
 Speech Recognition Assistant is a Python-based desktop voice assistant that listens to user voice commands and performs predefined actions. The application uses speech recognition for voice input and text-to-speech technology for audio responses, providing a simple hands-free interaction experience.
 
 Features
-•	Voice command recognition using SpeechRecognition
-•	Text-to-speech responses using pyttsx3
-•	Wikipedia search and summary retrieval
-•	Open Google directly from voice commands
-•	Open YouTube directly from voice commands
-•	Open ChatGPT directly from voice commands
-•	Real-time system time announcement
-•	Voice-based application shutdown
+1.	Voice command recognition using SpeechRecognition
+2.	Text-to-speech responses using pyttsx3
+3.	Wikipedia search and summary retrieval
+4.	Open Google directly from voice commands
+5.	Open YouTube directly from voice commands
+6.	Open ChatGPT directly from voice commands
+7.	Real-time system time announcement
+8.	Voice-based application shutdown
 
 Technologies Used
-•	Python
-•	SpeechRecognition
-•	pyttsx3
-•	Wikipedia Library
-•	Webbrowser Module
-•	DateTime Module
+1.	Python
+2.	SpeechRecognition
+3.	pyttsx3
+4.	Wikipedia Library
+5.	Webbrowser Module
+6.	DateTime Module
 
 Installation
 Install the required dependencies:
@@ -50,21 +50,15 @@ Project Workflow
    
 Learning Outcomes
 This project helped in understanding:
-•	Speech Recognition in Python
-•	Text-to-Speech Integration
-•	Voice-Based User Interaction
-•	Python Automation
-•	Browser Automation
-•	API and Library Integration
-•	Exception Handling
-
-Future Enhancements
-•	Application Launching Support
-•	Weather Information Retrieval
-•	Email and WhatsApp Automation
-•	AI-Powered Conversations
-•	GUI-Based Interface
-•	Additional Voice Commands
+1.	Speech Recognition in Python
+2.	Text-to-Speech Integration
+3.	Voice-Based User Interaction
+4.	Application Launching Support
+5.	Weather Information Retrieval
+6.	Email and WhatsApp Automation
+7.	AI-Powered Conversations
+8.	GUI-Based Interface
+9.	Additional Voice Commands
 
 Author
 saloni kamble
