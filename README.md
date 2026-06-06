@@ -1,4 +1,5 @@
-Project- Speech Recognition Assistant
+Project- Speech Recognition Assistant.
+
 Speech Recognition Assistant is a Python-based desktop voice assistant that listens to user voice commands and performs predefined actions. The application uses speech recognition for voice input and text-to-speech technology for audio responses, providing a simple hands-free interaction experience.
 
 Features
